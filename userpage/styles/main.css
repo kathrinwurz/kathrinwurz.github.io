@@ -1,0 +1,24 @@
+html {
+    background-color:rgb(211, 212, 214);
+    font-family: 'News Cycle', sans-serif;
+    color: rgb(83, 84, 87);
+    text-align: center;
+}
+
+h1 {
+    border: 0.1em solid whitesmoke;
+}
+
+span {
+    font-size: 1.75em;
+    color: white;
+}
+
+span ~ span {
+    font-size: 1.5em;
+}
+
+a {
+    font-size: 1.25em;
+    color: whitesmoke;
+}
